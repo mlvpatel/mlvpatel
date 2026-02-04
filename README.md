@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hey%2C+I'm+Malav+Patel+%F0%9F%91%8B;AI%2FML+Engineer+%7C+From+Transistors+to+Transformers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hey%2C+I'm+Malav+Patel" alt="Typing SVG" />
 
 <br/>
 

@@ -592,7 +592,7 @@
 <summary><b>🗣️ Speech-to-Text API — Multilingual Transcription</b></summary>
 <br/>
 
-- **Languages:** English, Italian, Spanish, Hindi
+- **Languages:** English,Hindi
 - **Accuracy:** 95% WER on clean audio
 - **Features:** Speaker diarization, real-time streaming
 
@@ -628,9 +628,9 @@
 <summary><b>🤖 Chatbot Framework — Customer Support Automation</b></summary>
 <br/>
 
-- **Channels:** Web, WhatsApp, Telegram, Slack
+- **Channels:** Web,Telegram, Slack
 - **Features:** Intent classification, entity extraction, handoff to human
-- **Languages:** English, Italian
+- **Languages:** English
 
 **Tech:** `Rasa` `FastAPI` `PostgreSQL` `Redis` `Docker`
 

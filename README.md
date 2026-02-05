@@ -1,8 +1,19 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hey%2C+I'm+Malav+Patel" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hey%2C+I'm+Malav+Patel+🙏" alt="Name" />
+  
+  <br>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9933&width=210&height=35&lines=Data+Scientist" alt="Data Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&width=185&height=35&lines=ML+Engineer" alt="ML Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=138808&width=165&height=35&lines=AI+Engineer" alt="AI Engineer" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+into+Scalable+ML+%26+AI+Products" alt="Tagline" />
+</div>
 <br/>
 
 > *"My career is a real-world implementation of **Reinforcement Learning** — no predefined path, no guided curriculum, just continuous exploration, feedback loops, and optimizing for long-term reward. Every transition was a policy update shaped by experience."*

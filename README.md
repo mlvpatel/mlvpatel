@@ -6,13 +6,13 @@
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9933&width=210&height=35&lines=Data+Scientist" alt="Data Scientist" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&width=185&height=35&lines=ML+Engineer" alt="ML Engineer" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=138808&width=165&height=35&lines=AI+Engineer" alt="AI Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9933&width=280&height=35&lines=AI+Solutions+Architect" alt="AI Solutions Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&width=260&height=35&lines=Full-Stack+AI+Engineer" alt="Full-Stack AI Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=138808&width=200&height=35&lines=AI+Governance" alt="AI Governance" />
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+into+Scalable+ML+%26+AI+Products" alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=Building+Production+AI+Systems+%26+Offensive+Security+Tools" alt="Tagline" />
 </div>
 <br/>
 
@@ -289,12 +289,52 @@
 </details>
 
 <details open>
-<summary><b>🖥️ IDEs & Dev Tools</b></summary>
+<summary><b>🔐 AI Security & Offensive</b></summary>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Nuclei-6C3CFF?style=flat-square" />
+<img src="https://img.shields.io/badge/subfinder-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/httpx-00ADD8?style=flat-square" />
+<img src="https://img.shields.io/badge/katana-FF4500?style=flat-square" />
+<img src="https://img.shields.io/badge/nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/masscan-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/semgrep-22A559?style=flat-square" />
+<img src="https://img.shields.io/badge/Bandit-FFA500?style=flat-square" />
+<img src="https://img.shields.io/badge/dalfox-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/trufflehog-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/sisakulint-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>🏛️ AI Governance & Compliance</b></summary>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/EU_AI_Act-003399?style=flat-square" />
+<img src="https://img.shields.io/badge/GDPR_Art._30/32-003399?style=flat-square" />
+<img src="https://img.shields.io/badge/NIST_AI_RMF-0071C5?style=flat-square" />
+<img src="https://img.shields.io/badge/NIST_CSF_2.0-0071C5?style=flat-square" />
+<img src="https://img.shields.io/badge/ISO_42001-2EA44F?style=flat-square" />
+<img src="https://img.shields.io/badge/ISO_27001-2EA44F?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>🖥️ AI Dev Tooling & IDEs</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Windsurf-1E90FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/ruflo-FF4500?style=flat-square" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -336,6 +376,29 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 </p>
 </details>
+
+---
+
+## 🏛️ Compliance-First AI Architecture
+
+<div align="center">
+
+*"Build this now; don't retrofit later."*
+
+</div>
+
+<br/>
+
+> I design AI systems for **global regulatory compliance from day one**, not as a retrofit. Every system I build ships with audit trails, scope enforcement, and compliance documentation baked into the architecture layer.
+>
+> **Production experience across jurisdictions:**
+> - 🇪🇺 **EU AI Act** — Article 12 immutable event logging, risk classification, GDPR Art. 30/32 data governance
+> - 🇺🇸 **NIST** — Cyber AI Profile (Dec 2025), AI Agent Standards, CSF 2.0 identity-centric design, least-privilege IAM for non-human agents
+> - 🌍 **ISO 42001 / 27001** — AI lifecycle governance, ISMS integration, Annex A continuous evaluation
+> - 🇮🇳🇨🇳 **APAC Awareness** — India DPDP Act (consent gateways, data localization), China GenAI Measures (algorithm registration, content labeling)
+> - 🇯🇵🇦🇺🇸🇬 **Oceania & APAC** — Japan IP-Secure (copyright collision detection), Australia Mandatory Guardrails (cryptographic watermarks, provenance tracking), Singapore AI Verify pipeline integration
+>
+> **Applied in:** GrantRadar (GDPR + EU AI Act) · Sentinel AI (NIST + GDPR + ISO 27001) · Claude Code Workspace (EU-sovereign infrastructure, Scaleway France)
 
 ---
 
@@ -452,6 +515,70 @@
 > *"Each project = a new state in my learning trajectory, each deployment = a reward signal"*
 
 <details open>
+<summary><b>🛡️ Sentinel AI Offensive — AI-Powered Offensive Security Platform</b></summary>
+<br/>
+
+**Autonomous agent harness for bug bounty, VAPT, SAST & network pentesting — delivered to client, then open-sourced**
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 **7 AI Agents** | Recon (Haiku), Hunt Engine (Sonnet), Validator (Sonnet), Report Writer (Opus), Chain Builder, Autopilot, Recon Ranker |
+| 🔧 **25+ Security Tools** | subfinder, httpx, nuclei, nmap, masscan, semgrep, Bandit, dalfox, sqlmap, hydra, crackmapexec |
+| 🎯 **8-Phase Pipeline** | Target Intake → Recon → SAST → DAST → Manual Hunt → Chain Build → Validate → Report |
+| 🌐 **20 Web2 Vuln Classes** | IDOR, SSRF, SQLi, XSS, OAuth, Race Conditions, Business Logic, ATO, SSTI, and more |
+| 🔗 **10 Web3 Bug Classes** | Accounting Desync, Oracle Manipulation, Reentrancy, Flash Loan, Access Control |
+| 🔌 **MCP Integrations** | Burp Suite proxy + HackerOne API for live hunt data |
+| 🛡️ **Compliance** | NIST / GDPR / ISO 27001 — immutable audit log, scope enforcement, circuit breakers |
+| ✅ **211 Tests** | Automated test suite across all agents and tools |
+
+```
+🎯 Target ──► 🔍 Recon ──► 📝 SAST ──► 💥 DAST ──► 🎯 Hunt ──► ✅ Validate ──► 📄 Report
+                                                        │                    │
+                                                        └── Chain Build ◄────┘
+```
+
+**Tech:** `Claude Code` `Antigravity` `Python` `semgrep` `Bandit` `nuclei` `subfinder` `nmap` `masscan` `Pinecone` `Docker` `FastAPI` `Foundry`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-sentinel--ai--offensive-181717?style=flat-square&logo=github)](https://github.com/mlvpatel/sentinel-ai-offensive)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🏗️ GrantRadar — EU-Compliant B2B SaaS Platform</b></summary>
+<br/>
+
+**Latvian grant & financial support aggregator — bilingual, AI-powered, GDPR-compliant**
+
+- **Architecture:** 21-section blueprint with C4 diagrams, 12 architecture diagrams, RBAC matrix
+- **Scale:** 8-role RBAC with Row-Level Security, bilingual (LV+EN), scalable 100 → 5,000 users
+- **AI Pipeline:** LLM-powered data extraction with SHA-256 change detection — 70–80% token cost reduction
+
+**Tech:** `Next.js 14` `Supabase` `Gemini 2.5 Flash` `GPT-4.1-nano` `n8n Pro` `Stripe` `Tailwind` `Vercel` `Playwright` `Cheerio`
+
+</details>
+
+---
+
+<details open>
+<summary><b>☁️ Claude Code Workspace — Managed AI PaaS for EU SMEs</b></summary>
+<br/>
+
+**Secure, role-specific Claude Code workspaces — product-as-a-service for non-technical teams**
+
+- **Architecture:** 6-layer service model (Context → Data → Security → Intelligence → Automate → Build)
+- **Delivery:** Automated pipeline: Stripe → container build → 5-gate quality validation → delivery in 15 min
+- **Security:** Per-company container isolation, employee-level RBAC via LiteLLM virtual keys, NetBird VPN
+- **Infrastructure:** EU-sovereign on Scaleway (France), HashiCorp Vault, ArgoCD skill distribution
+
+**Tech:** `Claude Code` `LiteLLM` `Docker` `Scaleway Kapsule` `NetBird/WireGuard` `HashiCorp Vault` `ArgoCD` `n8n` `Stripe`
+
+</details>
+
+---
+
+<details open>
 <summary><b>🤖 AgentDS — Autonomous Multi-Agent Data Science Framework</b></summary>
 <br/>
 
@@ -529,18 +656,6 @@
 </details>
 
 <details>
-<summary><b>✍️ Prompt Engineering Suite — Automation Templates</b></summary>
-<br/>
-
-- **Cybersecurity:** SAT reports (8 hrs → 30 min), vulnerability analysis
-- **Content:** 1000+ social posts, 40% higher engagement
-- **Analytics:** NL-to-SQL (90% accuracy), automated executive reports
-
-**Tech:** `GPT-4` `Claude` `LangChain` `Prompt Templates` `Python`
-
-</details>
-
-<details>
 <summary><b>🔐 Cybersecurity SAT Automation — Report Generation</b></summary>
 <br/>
 
@@ -549,30 +664,6 @@
 - **Features:** Automated vulnerability prioritization, remediation steps
 
 **Tech:** `GPT-4` `LangChain` `FastAPI` `PostgreSQL` `Jinja2`
-
-</details>
-
-<details>
-<summary><b>📊 Data Analytics Dashboard — BI Insights Platform</b></summary>
-<br/>
-
-- **Features:** Real-time KPIs, interactive visualizations, automated alerts
-- **Data Sources:** PostgreSQL, MongoDB, REST APIs, CSV/Excel
-- **Users:** Executive stakeholders, data analysts
-
-**Tech:** `Streamlit` `Plotly` `Pandas` `PostgreSQL` `Redis`
-
-</details>
-
-<details>
-<summary><b>🖼️ Image Classification Pipeline — Transfer Learning</b></summary>
-<br/>
-
-- **Accuracy:** 96% on custom dataset with limited labels
-- **Method:** Fine-tuned ResNet50, data augmentation, mixup
-- **Deployment:** REST API with batch inference support
-
-**Tech:** `PyTorch` `ResNet` `FastAPI` `Docker` `AWS S3`
 
 </details>
 
@@ -601,18 +692,6 @@
 </details>
 
 <details>
-<summary><b>📱 Social Media Content Generator — Multi-Platform</b></summary>
-<br/>
-
-- **Platforms:** LinkedIn, Twitter/X, Instagram, Facebook
-- **Output:** 1000+ posts generated, 92% brand voice consistency
-- **Features:** Tone adaptation, hashtag optimization, scheduling
-
-**Tech:** `GPT-4` `Claude` `LangChain` `Zapier` `Buffer API`
-
-</details>
-
-<details>
 <summary><b>🔍 Semantic Search Engine — Enterprise Knowledge Base</b></summary>
 <br/>
 
@@ -621,18 +700,6 @@
 - **Accuracy:** 89% relevance score (human evaluated)
 
 **Tech:** `Elasticsearch` `sentence-transformers` `FastAPI` `Redis`
-
-</details>
-
-<details>
-<summary><b>🤖 Chatbot Framework — Customer Support Automation</b></summary>
-<br/>
-
-- **Channels:** Web,Telegram, Slack
-- **Features:** Intent classification, entity extraction, handoff to human
-- **Languages:** English
-
-**Tech:** `Rasa` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
 </details>
 
@@ -680,6 +747,5 @@
 
 [![Email](https://img.shields.io/badge/malav.patel203@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malav.patel203@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/malavpatel112-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavpatel112/)
-[![Instagram](https://img.shields.io/badge/m8049pp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m8049pp/)
 
 </div>

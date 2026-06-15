@@ -1,28 +1,46 @@
 <div align="center">
 
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hey%2C+I'm+Malav+Patel+🙏" alt="Name" />
-  
-  <br>
+<!-- NAME: sun-gradient banner, namaste both sides, twinkling animation (hosted; GitHub-reliable, no file to commit) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,45:8A3B00,100:FF8A1E&text=%F0%9F%99%8F%20Malav%20Patel%20%F0%9F%99%8F&fontColor=FFFFFF&fontSize=46&fontAlignY=42&animation=twinkling" alt="Malav Patel" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9933&width=280&height=35&lines=AI+Solutions+Architect" alt="AI Solutions Architect" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&width=260&height=35&lines=Full-Stack+AI+Engineer" alt="Full-Stack AI Engineer" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=138808&width=200&height=35&lines=AI+Governance" alt="AI Governance" />
-
-  <br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=Building+Production+AI+Systems+%26+Offensive+Security+Tools" alt="Tagline" />
-</div>
-<br/>
-
-> *"My career is a real-world implementation of **Reinforcement Learning** — no predefined path, no guided curriculum, just continuous exploration, feedback loops, and optimizing for long-term reward. Every transition was a policy update shaped by experience."*
+<!-- TITLES: Indian tricolour bands: saffron / white (navy text) / green -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&background=FF9933&width=640&height=44&lines=AI+Solutions+Architect" alt="AI Solutions Architect" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=000080&center=true&vCenter=true&background=FFFFFF&width=640&height=44&lines=AI+Infrastructure+Engineer" alt="AI Infrastructure Engineer" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&background=138808&width=640&height=44&lines=Full-Stack+AI+%26+MLOps+Engineer" alt="Full-Stack AI & MLOps Engineer" />
 
 <br/>
 
-**I understand what happens beneath the abstraction layers — from transistors to transformers to tokens.**
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Full--time%20·%20Contract%20·%20Project_Work-2EA043?style=for-the-badge)](mailto:malav.patel203@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-malavpatel112-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavpatel112/)
+[![Email](https://img.shields.io/badge/Email-malav.patel203-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malav.patel203@gmail.com)
 
 </div>
+
+> *"My career is a real-world implementation of **Reinforcement Learning** · no predefined path, just continuous exploration, feedback loops, and optimizing for long-term reward."*
+
+**I understand what happens beneath the abstraction layers: from transistors to transformers to tokens.**
+
+`13+ yrs in technology` · `7+ yrs in AI/ML`
+
+---
+
+## 🎯 What I Build
+
+- 🤖 **Production Agentic AI:** multi-agent orchestration (LangGraph, CrewAI, AG2), durable human-in-the-loop, deterministic control planes, MCP servers & tools (Python + Rust)
+- 🔎 **RAG at production scale:** hybrid + multilingual retrieval, cross-encoder reranking, chunking, anti-hallucination, RAGAS-style evals
+- 🎚️ **LLM fine-tuning & post-training:** domain models via LoRA/QLoRA; GRPO · DPO · offline RL for tool-using agents *(applied R&D)*
+- 💬 **Conversational AI & CX:** assistants, tool-using agents, chat/voice flows, eval + observability pipelines
+- 🛡️ **AI-powered offensive security:** bug-bounty / VAPT / SAST platforms, Burp + HackerOne MCP, threat modeling (STRIDE / OWASP)
+- 📈 **Predictive ML & analytics:** forecasting, time-series, financial-signal models, ensembles (XGBoost / LightGBM)
+- 👁️ **Computer Vision & Edge AI:** detection & tracking (YOLO + ByteTrack), pose estimation, Jetson / TensorRT optimization
+- ⚙️ **AI / MLOps:** drift monitoring, automated retraining, canary deploys on Kubernetes, distributed training (Ray / DeepSpeed)
+- 🏛️ **EU-compliant SaaS & architecture:** GDPR, EU AI Act, RBAC/RLS, immutable audit trails, reference architectures
+- 🧱 **Full-stack & backend:** Next.js / React, FastAPI / Node, high-concurrency microservices (100k+ users), PostgreSQL / Redis
+- 🔄 **Automation & data engineering:** n8n workflows, ETL (Airflow / Kafka / dbt), scrapers, CRM & billing integration
+- ☁️ **DevOps & cloud:** Docker, Kubernetes, Terraform IaC, CI/CD across AWS / GCP / Azure
+
+> 🚀 **End-to-end ownership:** discovery → architecture → build → deploy → evaluation → handoff.
 
 ---
 
@@ -33,39 +51,13 @@
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Deep Learning</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square" />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" />
-<img src="https://img.shields.io/badge/Optuna-2196F3?style=flat-square" />
-<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
 </p>
 </details>
 
@@ -75,18 +67,35 @@
 <p align="center">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/LiteLLM-00ADD8?style=flat-square" />
 <img src="https://img.shields.io/badge/CrewAI-FF4500?style=flat-square" />
-<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/AutoGen_/_AG2-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square" />
+<img src="https://img.shields.io/badge/DSPy-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LiteLLM-00ADD8?style=flat-square" />
+<img src="https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎯 RL & LLM Post-Training <sub>(applied R&D)</sub></b></summary>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/MDPs-2B6CB0?style=flat-square" />
+<img src="https://img.shields.io/badge/Policy_Evaluation-2B6CB0?style=flat-square" />
+<img src="https://img.shields.io/badge/PPO-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/GRPO-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/DPO-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Offline_RL-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Gymnasium-0066CC?style=flat-square" />
+<img src="https://img.shields.io/badge/HF_TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RLlib-028CF0?style=flat-square&logo=ray&logoColor=white" />
+<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSpeed_/_FSDP-1E88E5?style=flat-square" />
 </p>
 </details>
 
@@ -95,196 +104,13 @@
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat-square" />
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Weaviate-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square" />
+<img src="https://img.shields.io/badge/Weaviate-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat-square" />
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚡ Backend & APIs</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Litestar-9B59B6?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗃️ Databases</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Data Engineering</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>📈 Visualization</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Bokeh-E1477E?style=flat-square" />
-<img src="https://img.shields.io/badge/Altair-1F77B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🚀 MLOps & Experiment Tracking</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
-<img src="https://img.shields.io/badge/ClearML-2B3440?style=flat-square" />
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white" />
-<img src="https://img.shields.io/badge/BentoML-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Seldon-1E3A5F?style=flat-square" />
-<img src="https://img.shields.io/badge/Evidently-FF4F64?style=flat-square" />
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🐳 DevOps & Infrastructure</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔄 CI/CD & Version Control</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
-<img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=travisci&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>📡 Edge AI & Optimization</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenVINO-0068B5?style=flat-square&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧪 Testing & Quality</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruff-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/mypy-1F5082?style=flat-square" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-<img src="https://img.shields.io/badge/Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 Monitoring & Observability</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
 </p>
 </details>
 
@@ -292,217 +118,243 @@
 <summary><b>🔐 AI Security & Offensive</b></summary>
 <br/>
 <p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Nuclei-6C3CFF?style=flat-square" />
 <img src="https://img.shields.io/badge/subfinder-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/httpx-00ADD8?style=flat-square" />
-<img src="https://img.shields.io/badge/katana-FF4500?style=flat-square" />
 <img src="https://img.shields.io/badge/nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/masscan-CC0000?style=flat-square" />
 <img src="https://img.shields.io/badge/semgrep-22A559?style=flat-square" />
 <img src="https://img.shields.io/badge/Bandit-FFA500?style=flat-square" />
 <img src="https://img.shields.io/badge/dalfox-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-<img src="https://img.shields.io/badge/trufflehog-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/sisakulint-4B0082?style=flat-square" />
-<img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/HackerOne_MCP-494649?style=flat-square&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 </details>
 
 <details open>
-<summary><b>🏛️ AI Governance & Compliance</b></summary>
+<summary><b>🚀 MLOps & Cloud</b></summary>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/badge/EU_AI_Act-003399?style=flat-square" />
-<img src="https://img.shields.io/badge/GDPR_Art._30/32-003399?style=flat-square" />
-<img src="https://img.shields.io/badge/NIST_AI_RMF-0071C5?style=flat-square" />
-<img src="https://img.shields.io/badge/NIST_CSF_2.0-0071C5?style=flat-square" />
-<img src="https://img.shields.io/badge/ISO_42001-2EA44F?style=flat-square" />
-<img src="https://img.shields.io/badge/ISO_27001-2EA44F?style=flat-square" />
-<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+<img src="https://img.shields.io/badge/Evidently-FF4F64?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white" />
 </p>
 </details>
 
 <details open>
-<summary><b>🖥️ AI Dev Tooling & IDEs</b></summary>
+<summary><b>⚡ Backend, Data & Frontend</b></summary>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔄 Automation & Integration</b></summary>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=flat-square&logo=zoho&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square" />
+</p>
+<sub>LLM-in-the-loop workflows · CRM & billing automation · inbox triage (InBoxD) · scheduled scrapers + SHA-256 change detection · MCP-orchestrated AI-engineering flows.</sub>
+</details>
+
+<details open>
+<summary><b>🖥️ AI Dev Tooling</b></summary>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/ruflo-FF4500?style=flat-square" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square" />
 </p>
 </details>
 
-<details open>
-<summary><b>📦 Package Managers & Build Tools</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/pip-3775A9?style=flat-square&logo=pypi&logoColor=white" />
-<img src="https://img.shields.io/badge/conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" />
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=gnu&logoColor=white" />
-</p>
-</details>
+---
 
-<details open>
-<summary><b>🤝 Collaboration & Project Management</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
-<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
-</p>
-</details>
+## 🤖 LLMs I Work With
+
+**☁️ Proprietary** &nbsp;·&nbsp; **Claude** `Opus 4.8 / 4.7 · Sonnet 4.6 · Haiku 4.5 · Fable 5` · **OpenAI** `GPT-5.4 · Codex` · **Google** `Gemini 3 Pro / Flash · Embedding 2` · **Cohere** `Command A / R+` · **Amazon** `Nova` · **Mistral** `Large / Medium` · **Azure OpenAI** · **AI21** `Jamba` · **Perplexity** `Sonar`
+
+**🔓 Open-Weight** &nbsp;·&nbsp; **Meta** `Llama 4 · 3.3 70B` · **Alibaba** `Qwen 3.5 · Qwen3-Coder` · **DeepSeek** `V3.2 · R1 · Coder-V2` · **Mistral** `3 · Mixtral · Codestral` · **Zhipu** `GLM-4.6` · **Moonshot** `Kimi K2.6` · **Google** `Gemma 4` · **Microsoft** `Phi-4` · **Ai2** `OLMo 3` · **NVIDIA** `Nemotron 3` · **IBM** `Granite 3.x`
+
+**🔎 Embeddings** &nbsp;·&nbsp; BGE-M3 · multilingual-e5 · Nomic Embed · gte-Qwen2 · Jina v3 · EmbeddingGemma
+
+**🎛️ Fine-Tuning** &nbsp;·&nbsp; LoRA · QLoRA · PEFT · Unsloth · TRL (SFT / DPO / GRPO) · quantization (GGUF · AWQ · GPTQ)
+
+> 🧭 **How I use them:** **model-tier routing** · cheap/fast models for recon, routing and extraction; frontier models for hard reasoning and report quality. **Self-hosted open-weight** (vLLM / Ollama / llama.cpp) for private and air-gapped inference. **Provider-agnostic** through a **LiteLLM** gateway, so swapping models is a config change, not a rewrite.
+
+### 🧩 Claude / Anthropic Ecosystem
+
+> Model-agnostic by default (every major LLM above); **deepest in the Claude/Anthropic agentic stack:**
+
+| Area | What I use |
+|---|---|
+| **Models** | Claude Opus 4.8 / 4.7 · Sonnet 4.6 · Haiku 4.5 · Fable 5 |
+| **Agentic coding** | Claude Code (CLI) · subagents · hooks · slash commands · plugins · `CLAUDE.md` |
+| **SDK / API** | Claude Agent SDK · Claude API (Messages, tool use, prompt caching, extended thinking, Computer Use) |
+| **MCP** | Model Context Protocol · building MCP servers & clients (Python **+** Rust) · FastMCP |
+| **Deploy** | Amazon Bedrock · Google Vertex AI · Azure |
+
+---
+
+## 🕸️ MCP, A2A & Multi-Agent Systems
+
+> Where I go deepest: designing how agents discover tools, coordinate with each other, and stay bounded in production.
+
+**🔌 Model Context Protocol (MCP)** · building MCP servers & clients in **Python and Rust**
+- `linkedin-export-mcp` (read-only profile reader) · `sentinel-mcp` (Rust, in progress: auth, capability-scoped tools, immutable audit log)
+- Live integrations: **Burp Suite + HackerOne MCP** inside the Sentinel AI security platform
+- Patterns: typed / schema-validated tools, capability scoping, FastMCP, stdio & SSE transports
+
+**🤝 Agent-to-Agent (A2A) coordination** · how agents delegate, hand off, and negotiate
+- Coordinator + specialist topology with typed handoffs, shared state, and approval gates
+- Supervisor → worker (Manager-Worker) hierarchies; delegation across agent boundaries
+- Built around the emerging interop standards (A2A for agents, MCP for tools)
+
+**🧠 Multi-agent systems · best cases**
+- **Sentinel AI** · 7 specialist agents, 8-phase pipeline, model-tier routing (Haiku → Sonnet → Opus), 211 tests
+- **AgentDS** · 10-agent Manager-Worker framework with self-correcting reflexion loops + HITL gates
+- **Autonomous Agentic System** · coordinator + specialist, persistent memory, dynamic tool selection, 200+ eval scenarios
+- **grpo-toolagent** · agent tool-selection optimized as a measured objective (GRPO: 100% correctness, 0% safety violations)
+
+**🛡️ Production discipline** · deterministic control planes, bounded loops, durable human-in-the-loop, eval + observability (tracing by conversation ID), guardrails.
+
+---
+
+## 🔎 Production RAG Architecture <sub>(latest)</sub>
+
+> Recent engagement: an **air-gapped, multilingual technical-knowledge assistant** over **20k-100k PDF datasheets** for an industrial manufacturer, fully on-premise, **zero data egress**, with an ERP read-only sidecar for live stock/lifecycle data.
+
+- **Hybrid retrieval:** sparse lexical **+** dense semantic **+** *late-interaction visual* (ColPali-style) fused with **Reciprocal Rank Fusion (RRF)** and a reranker threshold
+- **Vision-grounded reading** on top-k candidate pages: multimodal RAG over **scanned + native** PDFs; multilingual input (EN · ZH · DE) → chat output (IT · EN)
+- **Citation-or-refuse, enforced architecturally:** multi-agent orchestration refuses any value it cannot verify against an indexed source (anti-hallucination by design)
+- **Live structured data:** read-only ERP sidecar (*Indirect Static Read* pattern) with routine-driven cache invalidation
+- **Evaluation goldset (200 questions)** as the acceptance gate: **≥98% citation validity · 0% unsupported-answer rate · ≥95% refusal correctness**
+- **On-prem serving:** local text **+** vision LLMs (multi-model, single GPU); citation drawer, freshness badges, AD/SSO
+- **Compliance baked in:** EU AI Act (Limited-Risk, Reg. 2024/1689), NIS2 control map, GDPR Art. 30
+
+*Also: hybrid (semantic + BM25) retrieval, cross-encoder reranking, parent-child chunking, query routing, contextual compression, and RAGAS-style eval (context precision/recall, faithfulness) across healthcare, enterprise-document, and conversational-RAG builds.*
 
 ---
 
 ## 🏛️ Compliance-First AI Architecture
 
-<div align="center">
+> I design AI systems for **global regulatory compliance from day one**, not as a retrofit. Every system ships with audit trails, scope enforcement, and compliance documentation baked into the architecture.
 
-*"Build this now; don't retrofit later."*
+- 🇪🇺 **EU AI Act:** Article 12 immutable event logging, risk classification, GDPR Art. 30/32 governance
+- 🇺🇸 **NIST AI RMF / CSF 2.0:** identity-centric design, least-privilege IAM for non-human agents
+- 🌍 **ISO/IEC 42001 & 27001:** AI lifecycle governance, ISMS integration, continuous evaluation
 
-</div>
-
-<br/>
-
-> I design AI systems for **global regulatory compliance from day one**, not as a retrofit. Every system I build ships with audit trails, scope enforcement, and compliance documentation baked into the architecture layer.
->
-> **Production experience across jurisdictions:**
-> - 🇪🇺 **EU AI Act** — Article 12 immutable event logging, risk classification, GDPR Art. 30/32 data governance
-> - 🇺🇸 **NIST** — Cyber AI Profile (Dec 2025), AI Agent Standards, CSF 2.0 identity-centric design, least-privilege IAM for non-human agents
-> - 🌍 **ISO 42001 / 27001** — AI lifecycle governance, ISMS integration, Annex A continuous evaluation
-> - 🇮🇳🇨🇳 **APAC Awareness** — India DPDP Act (consent gateways, data localization), China GenAI Measures (algorithm registration, content labeling)
-> - 🇯🇵🇦🇺🇸🇬 **Oceania & APAC** — Japan IP-Secure (copyright collision detection), Australia Mandatory Guardrails (cryptographic watermarks, provenance tracking), Singapore AI Verify pipeline integration
->
-> **Applied in:** GrantRadar (GDPR + EU AI Act) · Sentinel AI (NIST + GDPR + ISO 27001) · Claude Code Workspace (EU-sovereign infrastructure, Scaleway France)
+*Applied in: Sentinel AI (NIST/GDPR/ISO 27001) · GrantRadar (GDPR + EU AI Act) · Claude Code Workspace (EU-sovereign infra, Scaleway France).*
 
 ---
 
-## 🧮 Algorithms & Methods
-
-<div align="center">
-
-*"In RL terms: DS = Understand the environment, MLE = Optimize the policy, AIE = Deploy the agent"*
-
-</div>
-
 <table align="center">
 <tr>
-<td align="center" width="33%">
-
-### 🔵 Data Scientist
-**Focus:** Insight • Explainability • Patterns
-
-</td>
-<td align="center" width="33%">
-
-### 🟢 ML Engineer  
-**Focus:** Performance • Production • Scaling
-
-</td>
-<td align="center" width="33%">
-
-### 🔴 AI Engineer
-**Focus:** Deep Learning • Agents • Unstructured Data
-
-</td>
+<td align="center" width="33%"><b>🔵 Data Scientist</b><br/><sub>Insight · Causality</sub></td>
+<td align="center" width="33%"><b>🟢 ML Engineer</b><br/><sub>Performance · Production</sub></td>
+<td align="center" width="33%"><b>🔴 AI Engineer</b><br/><sub>Agents · Unstructured Data</sub></td>
 </tr>
 <tr>
 <td valign="top">
 
 ```
-📊 Regression
-├─ Linear Regression
-└─ Logistic Regression
-
-🌳 Tree-Based
-├─ Decision Tree
-├─ k-NN
-└─ Naive Bayes
-
-📍 Clustering
-├─ K-Means
-├─ K-Means++
-├─ DBSCAN
-└─ Hierarchical
+Regression · Clustering
+Hypothesis Testing
+SEM / CFA / EFA
+Causal Inference
+A/B & Experimentation
 ```
 
 </td>
 <td valign="top">
 
 ```
-🌲 Ensembles
-├─ Random Forest
-├─ Gradient Boosting
-├─ XGBoost
-└─ AdaBoost
-
-⚙️ Classical ML
-├─ SVM
-└─ Genetic Algorithms
+XGBoost · LightGBM
+Ensembles · SVM
+Time-Series Forecasting
+Optuna · Feature Stores
+Model Serving · CI/CD
 ```
 
 </td>
 <td valign="top">
 
 ```
-🧠 Neural Networks
-├─ ANN
-├─ CNN
-├─ RNN
-├─ LSTM
-├─ Transformer
-└─ Autoencoders
-
-🎮 Reinforcement Learning
-├─ Q-Learning
-├─ SARSA
-├─ DQN
-├─ Policy Gradient
-├─ Actor-Critic
-└─ MDP
+Transformers · MoE
+RAG · Fine-Tuning
+Multi-Agent (ReAct)
+LangGraph · MCP
+LLM Evals · Guardrails
 ```
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center"><b>🟣 RL Engineer</b><br/><sub>Sequential decisions · applied R&D</sub></td>
+<td align="center"><b>🟠 AI Solutions Architect</b><br/><sub>Systems · Delivery</sub></td>
+<td align="center"><b>⚙️ System Design</b><br/><sub>Scale · Reliability</sub></td>
+</tr>
+<tr>
+<td valign="top">
 
-**DS = Understand**
+```
+MDPs · Policy Eval
+PPO · GRPO · DPO
+Offline RL · Reward Design
+RLHF / RLVR
+Gymnasium · TRL · RLlib
+```
 
 </td>
-<td align="center">
+<td valign="top">
 
-**MLE = Predict at Scale**
+```
+Reference Architectures
+Vertex AI · Bedrock
+MCP · Agent/Tool design
+HITL · FinOps
+EU AI Act · GDPR
+```
 
 </td>
-<td align="center">
+<td valign="top">
 
-**AIE = Perceive + Act**
+```
+Microservices · Event-driven
+API-first · gRPC / REST
+Caching (Redis) · Queues
+Observability (OTel)
+100k+ concurrent · HA/DR
+```
 
 </td>
 </tr>
@@ -510,242 +362,76 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Open-Source Projects
 
-> *"Each project = a new state in my learning trajectory, each deployment = a reward signal"*
+### 🛡️ [sentinel-ai-offensive](https://github.com/mlvpatel/sentinel-ai-offensive) · AI-Powered Offensive Security Platform
+7-agent harness for bug bounty / VAPT / SAST with model-tier routing (Haiku → Sonnet → Opus), 25+ integrated tools, 8-phase pipeline, 20 web2 + 10 web3 vuln classes, Burp + HackerOne MCP, NIST/GDPR/ISO 27001 compliance, 211 tests. *Delivered to client, then open-sourced.*
+`Python` · `Multi-Agent` · `semgrep` · `nuclei` · `Pinecone` · `FastAPI` · `Docker`
 
-<details open>
-<summary><b>🛡️ Sentinel AI Offensive — AI-Powered Offensive Security Platform</b></summary>
-<br/>
+### 🤖 [AgentDS](https://github.com/mlvpatel/AgentDS) · Autonomous Multi-Agent Data Science Framework
+10-agent orchestration (LangGraph + Pydantic AI) automating the full ML lifecycle: data cleaning → feature engineering → AutoML → API generation → deploy. Self-correcting reflexion loops, HITL gates, MLflow tracking.
+`Python` · `LangGraph` · `Pydantic AI` · `LiteLLM` · `Optuna` · `FastAPI` · `K8s`
 
-**Autonomous agent harness for bug bounty, VAPT, SAST & network pentesting — delivered to client, then open-sourced**
+### 🧠 [maitri](https://github.com/mlvpatel/maitri) · Safety-Verified Maternal Referral Co-Pilot
+Built on Gemma with a verifier rejection-recovery loop for safe clinical referral guidance.
+`Python` · `LLM` · `Safety` · `Verifier-loop`
 
-| Feature | Description |
-|---------|-------------|
-| 🤖 **7 AI Agents** | Recon (Haiku), Hunt Engine (Sonnet), Validator (Sonnet), Report Writer (Opus), Chain Builder, Autopilot, Recon Ranker |
-| 🔧 **25+ Security Tools** | subfinder, httpx, nuclei, nmap, masscan, semgrep, Bandit, dalfox, sqlmap, hydra, crackmapexec |
-| 🎯 **8-Phase Pipeline** | Target Intake → Recon → SAST → DAST → Manual Hunt → Chain Build → Validate → Report |
-| 🌐 **20 Web2 Vuln Classes** | IDOR, SSRF, SQLi, XSS, OAuth, Race Conditions, Business Logic, ATO, SSTI, and more |
-| 🔗 **10 Web3 Bug Classes** | Accounting Desync, Oracle Manipulation, Reentrancy, Flash Loan, Access Control |
-| 🔌 **MCP Integrations** | Burp Suite proxy + HackerOne API for live hunt data |
-| 🛡️ **Compliance** | NIST / GDPR / ISO 27001 — immutable audit log, scope enforcement, circuit breakers |
-| ✅ **211 Tests** | Automated test suite across all agents and tools |
+### 📧 [InBoxD](https://github.com/mlvpatel/InBoxD) · AI Email Classification & Auto-Reply
+n8n + LLM two-stage pipeline: monitors inbox, classifies vendor/customer inquiries, queries databases, drafts professional replies. Qdrant vector search.
+`n8n` · `LLM` · `Qdrant` · `Automation`
 
-```
-🎯 Target ──► 🔍 Recon ──► 📝 SAST ──► 💥 DAST ──► 🎯 Hunt ──► ✅ Validate ──► 📄 Report
-                                                        │                    │
-                                                        └── Chain Build ◄────┘
-```
+### 🎯 [SportsAnalytics-CV](https://github.com/mlvpatel/SportsAnalytics-CV) · Real-Time Sports Video Analysis
+Multi-object tracking (YOLO v8/v11 + ByteTrack), team classification (K-Means), speed/distance metrics, possession analytics. FastAPI + Streamlit.
+`PyTorch` · `YOLO` · `OpenCV` · `FastAPI` · `Docker`
 
-**Tech:** `Claude Code` `Antigravity` `Python` `semgrep` `Bandit` `nuclei` `subfinder` `nmap` `masscan` `Pinecone` `Docker` `FastAPI` `Foundry`
+### 🎛️ [grpo-toolagent](https://github.com/mlvpatel/grpo-toolagent) · GRPO from scratch for agent tool-selection *(applied RL R&D)*
+From-scratch **GRPO** (no RL framework) post-training a tool-using agent on a **composite reward** (correctness + safety, minus tool-cost & latency). Runs on CPU; reproducible multi-seed results: **100% tool-selection correctness, 0% safety violations** vs random/untrained baselines. README maps it to the LLM-scale path (TRL `GRPOTrainer` + vLLM).
+`Python` · `GRPO` · `RL post-training` · `eval harness` · `tool selection`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-sentinel--ai--offensive-181717?style=flat-square&logo=github)](https://github.com/mlvpatel/sentinel-ai-offensive)
-
-</details>
+> 🦀 **Coming soon:** a production-grade **MCP server in Rust** · auth, capability-scoped tools, immutable audit log, OpenTelemetry.
 
 ---
 
-<details open>
-<summary><b>🏗️ GrantRadar — EU-Compliant B2B SaaS Platform</b></summary>
-<br/>
+## 💼 Selected Client & Architecture Work
 
-**Latvian grant & financial support aggregator — bilingual, AI-powered, GDPR-compliant**
+> Most of my work ships in **clients' private repositories under NDA**. A representative sample (2022-2026):
 
-- **Architecture:** 21-section blueprint with C4 diagrams, 12 architecture diagrams, RBAC matrix
-- **Scale:** 8-role RBAC with Row-Level Security, bilingual (LV+EN), scalable 100 → 5,000 users
-- **AI Pipeline:** LLM-powered data extraction with SHA-256 change detection — 70–80% token cost reduction
-
-**Tech:** `Next.js 14` `Supabase` `Gemini 2.5 Flash` `GPT-4.1-nano` `n8n Pro` `Stripe` `Tailwind` `Vercel` `Playwright` `Cheerio`
-
-</details>
-
----
-
-<details open>
-<summary><b>☁️ Claude Code Workspace — Managed AI PaaS for EU SMEs</b></summary>
-<br/>
-
-**Secure, role-specific Claude Code workspaces — product-as-a-service for non-technical teams**
-
-- **Architecture:** 6-layer service model (Context → Data → Security → Intelligence → Automate → Build)
-- **Delivery:** Automated pipeline: Stripe → container build → 5-gate quality validation → delivery in 15 min
-- **Security:** Per-company container isolation, employee-level RBAC via LiteLLM virtual keys, NetBird VPN
-- **Infrastructure:** EU-sovereign on Scaleway (France), HashiCorp Vault, ArgoCD skill distribution
-
-**Tech:** `Claude Code` `LiteLLM` `Docker` `Scaleway Kapsule` `NetBird/WireGuard` `HashiCorp Vault` `ArgoCD` `n8n` `Stripe`
-
-</details>
+| # | Project | Domain | Stack |
+|---|---|---|---|
+| 1 | **GrantRadar** · EU-compliant B2B SaaS (21-section architecture, 8-role RBAC + RLS, bilingual, GDPR Art. 30/32, **10k+ concurrent users**) | EU SaaS 🇪🇺 | Next.js 15 (App Router) · React · Supabase/Postgres + RLS · Drizzle · Gemini 2.5 · n8n · Stripe · Vercel · Playwright |
+| 2 | **Claude Code Workspace** · managed AI PaaS for EU SMEs (6-layer architecture, per-tenant container isolation, EU-sovereign infra) | AI PaaS 🇪🇺 | Claude Code · LiteLLM gateway · Scaleway Kapsule (K8s) · ArgoCD · HashiCorp Vault · NetBird/WireGuard · Docker |
+| 3 | **AI System Architecture & Multi-Agent Guide** · local MoE-manager + cloud-specialist orchestration, benchmark-driven | Consulting 🇬🇧 | Ollama · vLLM · AG2/AutoGen · llama.cpp · Qwen3-Coder · GLM-4.6 · SWE-bench eval |
+| 4 | **Conversational RAG + Fine-Tuned Domain LLM** · multi-turn memory, SQL-to-text + vector, query routing | NDA | PyTorch · LangGraph · pgvector · cross-encoder rerank · vLLM · FastAPI · Docker |
+| 5 | **Supply-Chain Demand Forecasting + RAG Assistant** · GBM+LSTM ensemble (-18% MAE), 15K-page SOP RAG | Logistics 🇮🇳 | XGBoost · LightGBM · PyTorch (LSTM) · LangChain · Terraform · AWS ECS · Airflow · MLflow |
+| 6 | **Autonomous Agentic AI System** · coordinator+specialist topology, HITL gates, 200+ eval scenarios | Enterprise 🇮🇳 | LangGraph · CrewAI · Pydantic AI · MCP · Claude/GPT · Qdrant · FastAPI · AWS |
+| 7 | **Enterprise Document Intelligence RAG** · hybrid retrieval, cross-encoder reranking, 8K+ docs, sub-3s p95 | Enterprise NDA | LlamaIndex · hybrid BM25+dense · Qdrant/Chroma · contextual compression · FastAPI · AWS |
+| 8 | **Financial Trading Prediction Platform** · ensemble + 12 indicators, drift monitoring, canary deploys | Fintech 🇺🇸 | XGBoost · LightGBM · AWS SageMaker · Evidently · DVC · W&B · Kubernetes (canary) |
+| 9 | **Healthcare RAG + LLM Fine-Tuning** · hybrid search, anti-hallucination, +23% accuracy (LoRA/QLoRA) | Healthcare 🇺🇸 | PyTorch · PEFT (LoRA/QLoRA) · LangChain · BM25+vector · Pinecone · vLLM · GCP Vertex AI |
+| 10 | **Psychometric Scale Validation** · EFA/CFA/SEM, 100+ items, publication-ready report | Academic 🇮🇳 | R (lavaan, psych) · SPSS · Python · SEM/CFA/EFA |
+| 11 | **Real-Time Pose Estimation** · 60+ FPS, 94% mAP for sports analytics | Computer Vision | PyTorch · YOLOv8 · ByteTrack · TensorRT · OpenCV |
+| 12 | **Edge AI Deployment** · NVIDIA Jetson, 4× compression, -85% cloud cost | Edge AI | TensorRT · ONNX Runtime · INT8 quantization · Jetson · Triton |
+| 13 | **Enterprise GenAI RAG** · 10K+ pages, query resolution 15 min → <12 s, streaming | Enterprise | LangChain · Pinecone · FastAPI · Redis · SSE streaming |
+| 14 | **Predictive Analytics & BI** · forecasting/classification, ETL on millions of records, exec dashboards | Healthcare/Logistics | scikit-learn · Airflow · dbt · Snowflake · Power BI · Tableau |
+| 15 | **Backend Microservices Platform** · **100k+ concurrent users**, RBAC, Redis (-70% DB load), PostGIS real-time matching (<50ms) | Gov / Delivery 🇮🇳 | FastAPI · Kubernetes (HPA) · PostgreSQL · PostGIS · Redis · Kafka |
+| 16 | **Network & Security Infrastructure** · firewalls, segmentation, topologies, hardening for SMB/enterprise | Networking 🇮🇳 | Cisco · CCNA · firewalls · VLANs · VPN · network hardening |
 
 ---
 
-<details open>
-<summary><b>🤖 AgentDS — Autonomous Multi-Agent Data Science Framework</b></summary>
-<br/>
+## 📜 Certifications
 
-**From raw data to production ML models — fully automated**
-
-| Feature | Description |
-|---------|-------------|
-| 🎯 **10 Specialized Agents** | DataLoader → DataCleaner → EDA Copilot → Feature Engineer → AutoML → API Wrapper → DevOps → Cloud Deploy → Drift Monitor → Optimizer |
-| 🧠 **LangGraph + Pydantic AI** | Modern multi-agent orchestration with state management |
-| 🔌 **100+ LLM Support** | OpenAI, Anthropic, Groq, Ollama, vLLM via LiteLLM gateway |
-| ⚡ **APO Engine** | Auto Prompt Optimization with beam search & A/B testing |
-| ☁️ **Multi-Cloud Deploy** | AWS ECS, GCP Cloud Run, Azure ACI — one-click |
-| 🔄 **Self-Correcting** | Agents debug their own code, retry on failure |
-| 👤 **HITL Support** | Human-in-the-loop for critical decisions |
-| 📊 **MLflow Integration** | Full experiment tracking & model registry |
-
-```
-📊 Your Data ──► 🤖 AgentDS ──► 🚀 Production ML Model
-     │                              │
-     └── BUILD ── DEPLOY ── MONITOR ┘
-```
-
-**Tech:** `LangGraph` `Pydantic AI` `LiteLLM` `Polars` `MLflow` `Optuna` `FastAPI` `Docker` `K8s`
-
-</details>
-
----
-
-<details>
-<summary><b>🧠 Enterprise RAG Engine — Lightning-fast Document Q&A</b></summary>
-<br/>
-
-- **Impact:** 15 min manual search → <10 sec automated (90x faster)
-- **Scale:** 10,000+ documents indexed, 93% user satisfaction
-- **Features:** Hybrid search, reranking, Redis caching, streaming responses
-
-**Tech:** `LangChain` `GPT-4` `Pinecone` `FastAPI` `Redis` `PostgreSQL`
-
-</details>
-
-<details>
-<summary><b>🎯 Real-Time Pose Estimation — Sports Analytics Pipeline</b></summary>
-<br/>
-
-- **Performance:** 60+ FPS on NVIDIA Jetson, 94% mAP accuracy
-- **Optimization:** 4x model compression (100MB → 25MB), <1% accuracy loss
-- **Pipeline:** Video → Frame Extraction → YOLO v8 → NMS → DeepSORT → JSON
-
-**Tech:** `PyTorch` `YOLO v8` `TensorRT` `OpenCV` `DeepSORT` `Docker`
-
-</details>
-
-<details>
-<summary><b>📡 Edge AI Deployment Toolkit — Cloud Cost Eliminator</b></summary>
-<br/>
-
-- **Cost Impact:** $5K/month → $0 (moved inference to edge)
-- **Latency:** 500ms → 50ms (10x improvement)
-- **Optimization:** FP32 → FP16 → INT8 quantization pipeline
-
-**Tech:** `TensorRT` `ONNX` `NVIDIA Jetson` `Docker` `MQTT`
-
-</details>
-
-<details>
-<summary><b>🌐 Async Microservices Template — Production-Ready APIs</b></summary>
-<br/>
-
-- **Scale:** 10,000+ concurrent users, 2,000 req/sec throughput
-- **Latency:** Sub-200ms (p95), 99.5% uptime SLA
-- **Features:** Connection pooling, multi-layer caching, auto-scaling HPA
-
-**Tech:** `FastAPI` `PostgreSQL` `Redis` `Kubernetes` `Prometheus` `Grafana`
-
-</details>
-
-<details>
-<summary><b>🔐 Cybersecurity SAT Automation — Report Generation</b></summary>
-<br/>
-
-- **Speed:** 8 hours manual → 30 minutes automated (16x faster)
-- **Output:** 50+ standardized assessments, 95% client approval
-- **Features:** Automated vulnerability prioritization, remediation steps
-
-**Tech:** `GPT-4` `LangChain` `FastAPI` `PostgreSQL` `Jinja2`
-
-</details>
-
-<details>
-<summary><b>🔄 CI/CD ML Pipeline — Automated Model Training</b></summary>
-<br/>
-
-- **Features:** Auto-retrain on data drift, A/B model deployment
-- **Tracking:** Full lineage from data to production model
-- **Triggers:** Scheduled, webhook, manual
-
-**Tech:** `GitHub Actions` `MLflow` `DVC` `Docker` `Kubernetes`
-
-</details>
-
-<details>
-<summary><b>🗣️ Speech-to-Text API — Multilingual Transcription</b></summary>
-<br/>
-
-- **Languages:** English,Hindi
-- **Accuracy:** 95% WER on clean audio
-- **Features:** Speaker diarization, real-time streaming
-
-**Tech:** `Whisper` `FastAPI` `Redis` `FFmpeg` `WebSocket`
-
-</details>
-
-<details>
-<summary><b>🔍 Semantic Search Engine — Enterprise Knowledge Base</b></summary>
-<br/>
-
-- **Scale:** 500K+ documents, sub-100ms search latency
-- **Features:** Hybrid search (BM25 + embeddings), faceted filtering
-- **Accuracy:** 89% relevance score (human evaluated)
-
-**Tech:** `Elasticsearch` `sentence-transformers` `FastAPI` `Redis`
-
-</details>
-
-<details>
-<summary><b>📈 Time Series Forecasting — Demand Prediction</b></summary>
-<br/>
-
-- **Accuracy:** 12% MAPE on 30-day forecasts
-- **Methods:** ARIMA, Prophet, LSTM ensemble
-- **Features:** Anomaly detection, confidence intervals
-
-**Tech:** `Prophet` `PyTorch` `statsmodels` `Pandas` `Plotly`
-
-</details>
-
-<details>
-<summary><b>🔧 Model Monitoring Dashboard — Production ML Health</b></summary>
-<br/>
-
-- **Metrics:** Data drift, prediction drift, latency, throughput
-- **Alerts:** Slack, Email, PagerDuty integration
-- **Visualization:** Real-time Grafana dashboards
-
-**Tech:** `Evidently` `Prometheus` `Grafana` `FastAPI` `PostgreSQL`
-
-</details>
+- **AWS** · Generative AI and AI Agents with Amazon Bedrock
+- **IBM** · RAG and Agentic AI Professional Certificate
+- **IBM** · Building AI Agents and Agentic Workflows Specialization
+- **Google** · Advanced Data Analytics Professional Certificate
+- **Google Cloud** · Advanced Machine Learning on Google Cloud
 
 ---
 
 <div align="center">
 
-</div>
+*"In RL, there are no mistakes, only exploration. Let's build something that ships."*
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**📍 Italy**
-
-*"In RL, there are no mistakes — only exploration. Let's build something that ships."*
-
-<br/>
-
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavpatel112/)
 [![Email](https://img.shields.io/badge/malav.patel203@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malav.patel203@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/malavpatel112-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavpatel112/)
 
 </div>
